@@ -38,7 +38,7 @@ namespace MyApp
                             
                             int tiempoComparado=DateTime.Compare(item.getExecutiondate(),datetime_sistema); 
                             //Console.WriteLine("tiempocomp== "+tiempoComparado);
-                             if((item.getExecution()==1)&&(tiempoComparado==-1)){ // si la accion no fue ejecutada y si es el momento para ejecutar la accion.
+                             if((item.getExecution()==1)&&(tiempoComparado==0)){ // si la accion no fue ejecutada y si es el momento para ejecutar la accion.
                                      item.setExecution(0);// se ejecuto
                                      //añadir cambio en la tabla schedule
 
