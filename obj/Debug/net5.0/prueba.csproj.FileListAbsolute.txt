@@ -1,0 +1,5 @@
+C:\Users\Akats\Desktop\prueba\obj\Debug\net5.0\prueba.csproj.AssemblyReference.cache
+C:\Users\Akats\Desktop\prueba\obj\Debug\net5.0\prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akats\Desktop\prueba\obj\Debug\net5.0\prueba.AssemblyInfoInputs.cache
+C:\Users\Akats\Desktop\prueba\obj\Debug\net5.0\prueba.AssemblyInfo.cs
+C:\Users\Akats\Desktop\prueba\obj\Debug\net5.0\prueba.csproj.CoreCompileInputs.cache
